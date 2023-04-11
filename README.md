@@ -1,7 +1,7 @@
 ![Nv4n's GitHub stats](https://github-readme-stats.vercel.app/api?username=nv4n&show_icons=true&theme=omni)
 
 
-![My Skills](https://skillicons.dev/icons?i=js,react,html,css,cpp,java&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=ts,react,vite,tailwind,prisma,cpp,java&theme=dark)
 
 <kbd> <br> [LinkedIn](https://www.linkedin.com/in/ivan-petrov-b5bb67265/) <br></kbd>
 
@@ -14,7 +14,7 @@
 ## Experience 🔋
 
 - Almost 1 year studying front-end technologies
-- Main tech stack React+Vite, JS, CSS and HTML
+- Main tech stack React+Vite, Prisma, TS, Lucia-auth, Tailwindcss
 - Basic Knowledge in SASS
 - And 2ND year computer science with main language C++
 - Basic Kwoledge in Java and JavaFX
@@ -22,8 +22,6 @@
 ## Technologies and stacks I want to learn 👨‍💻
 
 - Redux
-- Typescript
-- MongoDB
-- Firebase
-- Docker
-- Learn to work on full-stack app including different languages
+- Planetscale
+- Kysely
+- Next.js
