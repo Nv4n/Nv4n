@@ -9,16 +9,9 @@
 
 ## Experience 🔋
 
-- Almost 1 year of web programming
-- Main interests HTMX+GO, Vite+React, Typescript
-- And 3ND year computer science with main language C++
-- Learning Go
-- Learning SpringBoot
-- Basic Kwoledge in Java and JavaFX
-
-## Technologies and stacks that I'm building on
-
-- HTMX + Go
-- SpringBoot + React
+- Main interests
+  - for backend: GO,
+  - for fronted: Vite+React, Typescript
+- Basic experience with SpringBoot and JavaFX
 
 
