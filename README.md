@@ -1,7 +1,7 @@
 ![Nv4n's GitHub stats](https://github-readme-stats.vercel.app/api?username=nv4n&show_icons=true&theme=omni)
 
 
-![My Skills](https://skillicons.dev/icons?i=ts,react,vite,tailwind,prisma,go,spring&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=ts,react,vite,tailwind,go,spring&theme=dark)
 
 <kbd> <br> [LinkedIn](https://www.linkedin.com/in/ivan-petrov-b5bb67265/) <br></kbd>
 
